@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const app = express();
-const PORT = 3000;
+const PORT = 8080;
 const data = require('./group-data');
 
 app.use(bodyParser.json()).use(cors());
@@ -13,7 +13,6 @@ app.listen(
 )
 
 app.get("/members", (req, res) => {
-    return res.json(data.AllMembers);
+    return res.json(data);
 });
 
-console.table(data.AllMembers);
