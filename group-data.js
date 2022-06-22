@@ -9,7 +9,7 @@
             hobbies: ["->Basketball","->Hockey", "->Cricket","->Baseball", "->Valorant","->2K21","->Naruto SS", "->Anime", 
                     "->YouTube","->Tv Shows", "->Movies", "->Driving", "->Music"],
             interests: ["->Programming", "->NBA", "->Computers","->Peripherals","->Technology"],
-            qr: "../images/qr.JPG",
+            qr: "../images/qr.jpg",
             link: "https://www.linkedin.com/in/krish-vijayan-617263219",
         }
     ]
