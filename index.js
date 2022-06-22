@@ -12,7 +12,7 @@ app.listen(
     () => console.log(`I'm listening on http://localhost:${PORT}/`)
 )
 
-app.get("/members", (req, res) => {
+app.get("/", (req, res) => {
     return res.json(data);
 });
 
