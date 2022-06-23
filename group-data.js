@@ -18,7 +18,7 @@
             id:1,
             name: "Brandon Wang",
             photo: "../images/pfp.JPG",
-            school: "../images/school.JPG",
+            school: "University of Waterloo",
             program: "Honours Mathematics",
             interests: "Anime, Games, Jpop",
             linkedin: "https://www.linkedin.com/in/bw856/",
