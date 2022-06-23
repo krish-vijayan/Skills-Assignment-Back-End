@@ -39,7 +39,7 @@
         {
             id:3,
             name: "Taeyun Kim",
-            pfp: "../images/pfp.JPG",
+            pfp: "../images/taeyun-pfp.JPG",
             uwLogo: "../images/uw.png",
             school: "University of Waterloo",
             program: "Honours Mathematics",
