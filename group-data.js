@@ -27,13 +27,13 @@
         {
             id:2,
             name: "Serena Wittenberg",
-            pfp: "../images/pfp.png",
-            uwLogo: "../images/uw.png",
+            pfp: "../images/serena-pfp.jpg",
+            uwLogo: "../images/serena-uw.png",
             school: "University of Waterloo",
             program: "Biomedical Engineering",
             hobbies: ["Chess","Swimming", "Programming", "Design"],
             interests: ["Video Editing", "IOS Development", "Piano"],
-            qr: "../images/qr.png",
+            qr: "../images/serena-qr.jpg",
             link: "https://www.linkedin.com/in/serena-wittenberg",
         },
         {
