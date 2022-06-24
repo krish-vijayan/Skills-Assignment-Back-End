@@ -45,7 +45,7 @@
             program: "Honours Mathematics",
             hobbies: ["-> Gaming","-> Cooking", "-> Swimming","-> Travelling"],
             interests: ["-> Car", "-> Music", "-> E-Sports","-> Stock","-> Technology"],
-            qr: "../images/qr.JPG",
+            qr: "../images/taeyun-qr.jpg",
             link: "https://www.linkedin.com/in/taeyun-kim-ba18291b7",
         },
         {
