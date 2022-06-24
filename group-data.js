@@ -48,6 +48,17 @@
             qr: "../images/qr.JPG",
             link: "https://www.linkedin.com/in/taeyun-kim-ba18291b7",
         },
+        {
+            name: "Parsh Parikh",
+            pfp: "../images/parsh-pfp.png",
+            uwLogo: "../images/uw.png",
+            school: "University of Waterloo",
+            program: "Software Engineering",
+            hobbies: ["-> Basketball","-> Programming", "-> Gaming", "-> Exercise", "-> Karate", "-> Reading"],
+            interests: ["-> Technology", "-> UFC", "-> NBA", "-> Video Production"],
+            qr: "../images/parsh-qr.png",
+            link: "https://www.linkedin.com/in/parshjp",
+        },
     ]
  };
  
